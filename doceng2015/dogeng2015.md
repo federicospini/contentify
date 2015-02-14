@@ -11,7 +11,7 @@ Un documento **HIJSON** (**H**ierarchical **I**ndoor **JSON**) presenta almeno i
    
 1. struttura gerachica - con LAR nelle foglie consente un completo controllo della topologia
 2. coordinate metriche locali - editing semplificato
-3. estensioni semantiche - è possibile quindi aggiungere classi di oggetti di interesse
+3. estensioni semantiche - È possibile quindi aggiungere classi di oggetti di interesse
 
 ### Hierarchical structure
 ### Metric local coordinate System
